@@ -55,13 +55,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rantod-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=rantod-cmd&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantod-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rantod-cmd&theme=tokyonight&no-frame=true&row=1&column=6" height="100"/>
+  <img src="https://github-readme-stats-sigma-self-46.vercel.app/api?username=Rantod-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-self-46.vercel.app/api/top-langs/?username=Rantod-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ### 🌱 Contribution Snake
