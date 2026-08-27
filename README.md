@@ -8,14 +8,15 @@
 
 </div>
 
-### 👋 About Me
+### About Me
 
 - 🎓 Computer Engineering student @ **Kasetsart University**, Bangkok (2024 – 2028)
 - 💼 Software Engineer (Full-Stack) @ **AXIS Solution** — building RESTful APIs, RAG pipelines, and AI-powered platforms
-- 🔬 Research Assistant @ **Kasetsart University** — API Gateway (Apache APISIX), OAuth 2.0 / Keycloak auth for OAKU/SAKU
+- 🔬 Research Assistant @ **Kasetsart University** — AI-driven research, data analysis, and web interfaces for research findings
+- 🔧 Backend Developer @ **Kasetsart University** — API Gateway (Apache APISIX), OAuth 2.0 / Keycloak auth for OAKU/SAKU
 - 🌱 Always shipping side projects across web, mobile, and AI
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 <p align="center">
@@ -59,14 +60,14 @@
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
 </p>
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-self-46.vercel.app/api?username=Rantod-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats-sigma-self-46.vercel.app/api/top-langs/?username=Rantod-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-### 🌱 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rantod-cmd/rantod-cmd/output/github-contribution-grid-snake.svg" width="100%"/>
@@ -74,7 +75,7 @@
 
 > Snake graph renders after the `generate snake` GitHub Action runs once (auto on push / daily) — see `.github/workflows/snake.yml`.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Stack |
 |---|---|
@@ -83,7 +84,7 @@
 | **KU Job Fair — Student Booth Check-in System**<br>QR code-based check-in for real-time student registration and booth tracking (Agoda, SCB Tech X, Google). | FastAPI, Python, QR Code |
 | **Health Game — Flutter Pet Health App**<br>Mobile gamification app with a virtual pet reflecting real-world health habits; offline-capable via Hive. | Flutter, Dart, Hive, Android |
 
-### 🔗 Connect
+### Connect
 
 <p align="center">
   <a href="mailto:aone56110@gmail.com">
