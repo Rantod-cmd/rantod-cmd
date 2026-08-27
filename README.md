@@ -8,6 +8,13 @@
 
 </div>
 
+### 👋 About Me
+
+- 🎓 Computer Engineering student @ **Kasetsart University**, Bangkok (2024 – 2028)
+- 💼 Software Engineer (Full-Stack) @ **AXIS Solution** — building RESTful APIs, RAG pipelines, and AI-powered platforms
+- 🔬 Research Assistant @ **Kasetsart University** — API Gateway (Apache APISIX), OAuth 2.0 / Keycloak auth for OAKU/SAKU
+- 🌱 Always shipping side projects across web, mobile, and AI
+
 ### 🧰 Tech Stack
 
 **Languages**
