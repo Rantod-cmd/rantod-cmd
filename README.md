@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=rantod-cmd&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20code&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-stack+dev;Next.js+%2B+TypeScript+%2B+Prisma;Python+%7C+C+%7C+Dart;Always+shipping+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-stack+Software+Engineer;Next.js+%2B+FastAPI+%2B+Prisma;Python+%7C+TypeScript+%7C+Dart;Always+shipping+something" alt="Typing SVG" />
 </a>
 
 </div>
@@ -67,9 +67,14 @@
 
 > Snake graph renders after the `generate snake` GitHub Action runs once (auto on push / daily) — see `.github/workflows/snake.yml`.
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-> Pin your best repos: open a repo → sidebar **Customize your pins** on your profile, or repo page → ⭐ pin icon. Pinned repos render automatically as cards right below this README on your profile — no code needed here.
+| Project | Stack |
+|---|---|
+| **ABAS — KasetFair Business Planning Platform**<br>AI-powered financial planning platform generating revenue forecasts and break-even analysis for vendors. | Next.js 16, FastAPI, PostgreSQL, OpenAI, Docker |
+| **Disease Surveillance System — Hospital Reporting Platform**<br>Nationwide disease reporting platform for hospitals in Thailand, 14,000+ patient records. | React, Node.js, TypeScript, MongoDB, SQL Server, Docker |
+| **KU Job Fair — Student Booth Check-in System**<br>QR code-based check-in for real-time student registration and booth tracking (Agoda, SCB Tech X, Google). | FastAPI, Python, QR Code |
+| **Health Game — Flutter Pet Health App**<br>Mobile gamification app with a virtual pet reflecting real-world health habits; offline-capable via Hive. | Flutter, Dart, Hive, Android |
 
 ### 🔗 Connect
 
